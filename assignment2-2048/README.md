@@ -29,6 +29,7 @@
 ## Output Video
 
 [▶️ Watch on YouTube!](https://youtu.be/cG-FpsGfkfU)
+(Pineapple Kim is my creator alias on YouTube.)
 
 ---
 
