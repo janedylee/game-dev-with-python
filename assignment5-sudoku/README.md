@@ -27,7 +27,7 @@
 
 ## Output
 
-(Screenshot or YouTube link here if applicable)
+<img src="./sudoku-output.png" alt="Sudoku Output" width="500"/>
 
 ---
 
