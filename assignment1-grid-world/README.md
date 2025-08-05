@@ -24,6 +24,11 @@
 
 ---
 
-## 🖼️ Example Output
+## 🖼️ Output
 
 <img src="./grid-output.png" alt="Grid World Output" width="500"/>
+
+## ▶️ Demonstration
+
+▶️ [Click here to watch the video on YouTube!](https://youtube.com/shorts/UFhhSYBn1C4?feature=share)
+(Pineapple Kim is my creator alias on YouTube.)
