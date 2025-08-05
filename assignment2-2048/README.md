@@ -26,9 +26,9 @@
 
 ---
 
-## Output Video
+## 🎥 Demonstration
 
-[▶️ Watch on YouTube!](https://youtu.be/cG-FpsGfkfU)
+[▶️ Click here to watch the video on YouTube!](https://youtu.be/cG-FpsGfkfU)
 (Pineapple Kim is my creator alias on YouTube.)
 
 ---
