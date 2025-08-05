@@ -29,8 +29,8 @@
 
 ## ▶️ Demonstration
 
-(https://youtu.be/TrUcCYFI_p4)
-(*Pineapple Kim is my creator alias on YouTube.*)
+▶️ [Click here to watch the video on YouTube!](https://youtu.be/TrUcCYFI_p4)
+(Pineapple Kim is my creator alias on YouTube.)
 
 ---
 
