@@ -26,6 +26,4 @@
 
 ## 🖼️ Example Output
 
-![Grid World Pathfinding Output](./grid-output.png)
-
-```markdown
+<img src="./grid-output.png" alt="Grid World Output" width="500"/>
